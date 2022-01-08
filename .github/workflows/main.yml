@@ -22,7 +22,7 @@ jobs:
       - name: Close Issue
         uses: peter-evans/close-issue@v1
         with:
-          issue-number: ${{ github.event.issue.id }}
+          issue-number: ${{ github.event.issue.number }}
           comment: Auto-closing issue
           
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
