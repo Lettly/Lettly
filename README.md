@@ -5,6 +5,8 @@
 [![X](https://raw.githubusercontent.com/Lettly/Lettly/main/media/x.svg)](#)|[![O](https://raw.githubusercontent.com/Lettly/Lettly/main/media/o.svg)](#)|[![O clickable](https://raw.githubusercontent.com/Lettly/Lettly/main/media/o-trasparent.svg)](https://github.com/Lettly/Lettly/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=5)|
 [![O](https://raw.githubusercontent.com/Lettly/Lettly/main/media/o.svg)](#)|[![O clickable](https://raw.githubusercontent.com/Lettly/Lettly/main/media/o-trasparent.svg)](https://github.com/Lettly/Lettly/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=7)|[![O clickable](https://raw.githubusercontent.com/Lettly/Lettly/main/media/o-trasparent.svg)](https://github.com/Lettly/Lettly/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=8)|
 <!-- END: tick-tack-toe -->
+<!-- START: tick-tack-toe-winner -->
+<!-- END: tick-tack-toe-winner -->
 
 <!--
 **Lettly/Lettly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
