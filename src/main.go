@@ -24,8 +24,8 @@ func main() {
 	}
 	readme := string(readmeFile)
 
-	// Get text inside <!-- START: tick-tack-toe --> and <!-- END: tick-tack-toe --> comment
-	board := strings.Split(strings.Split(readme, "<!-- START: tick-tack-toe -->")[1], "<!-- END: tick-tack-toe -->")[0]
+	// Get text inside <!-- START: tic-tac-toe --> and <!-- END: tic-tac-toe --> comment
+	board := strings.Split(strings.Split(readme, "<!-- START: tic-tac-toe -->")[1], "<!-- END: tic-tac-toe -->")[0]
 
 	//Revmoe useless table indentation
 	board = strings.ReplaceAll(board, "|-|-|-|", "")
@@ -108,8 +108,8 @@ func main() {
 	}
 
 	//Prepare board for output
-	output := strings.Split(readme, "<!-- START: tick-tack-toe -->")[0]
-	output += "<!-- START: tick-tack-toe -->\n"
+	output := strings.Split(readme, "<!-- START: tic-tac-toe -->")[0]
+	output += "<!-- START: tic-tac-toe -->\n"
 	for i := 0; i < 9; i++ {
 		output += boardArray[i] + "|"
 		if i == 2 {
@@ -119,15 +119,15 @@ func main() {
 			output += "\n"
 		}
 	}
-	output += "<!-- END: tick-tack-toe -->"
+	output += "<!-- END: tic-tac-toe -->"
 	if winner == "X" || winner == "O" {
-		output += `<!-- START: tick-tack-toe-winner -->Last game was won by <b>` + winner + `</b><!-- END: tick-tack-toe-winner -->`
-		output += strings.Split(readme, "<!-- END: tick-tack-toe-winner -->")[1]
+		output += `<!-- START: tic-tac-toe-winner -->Last game was won by <b>` + winner + `</b><!-- END: tic-tac-toe-winner -->`
+		output += strings.Split(readme, "<!-- END: tic-tac-toe-winner -->")[1]
 	} else if winner == "draw" {
-		output += `<!-- START: tick-tack-toe-winner -->Last game was a draw<!-- END: tick-tack-toe-winner -->`
-		output += strings.Split(readme, "<!-- END: tick-tack-toe-winner -->")[1]
+		output += `<!-- START: tic-tac-toe-winner -->Last game was a draw<!-- END: tic-tac-toe-winner -->`
+		output += strings.Split(readme, "<!-- END: tic-tac-toe-winner -->")[1]
 	} else {
-		output += strings.Split(readme, "<!-- END: tick-tack-toe -->")[1]
+		output += strings.Split(readme, "<!-- END: tic-tac-toe -->")[1]
 	}
 
 	os.Stdout.WriteString(output)

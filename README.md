@@ -1,4 +1,4 @@
-## Hi there, i'm Marco 👋
+## Hi there, I'm Marco 👋
 I’m twenty years old and currently studying software engineer at Roma Tre.<br>
 I’ve always had a passion for programming, in fact I’ve been programming since I was fourteen as a hobby, I started by learning Linux, and during my high school career I’ve coded and developed various sites and programs, for instance I’ve recreated the visual interface of my high school electronic register for students.<br>
 ### ⚡ Fun fact:<br>
