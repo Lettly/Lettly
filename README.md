@@ -1,10 +1,9 @@
 ### Hi there 👋
 <!-- START: tick-tack-toe -->
-|1|2|3|
+|![](https://raw.githubusercontent.com/Lettly/Lettly/main/media/x-trasparent.svg)|![](https://raw.githubusercontent.com/Lettly/Lettly/main/media/x-trasparent.svg)|![](https://raw.githubusercontent.com/Lettly/Lettly/main/media/x-trasparent.svg)|
 |-|-|-|
-|4|5|6|
-|-|-|-|
-|7|8|9|
+|![](https://raw.githubusercontent.com/Lettly/Lettly/main/media/x-trasparent.svg)|![](https://raw.githubusercontent.com/Lettly/Lettly/main/media/x-trasparent.svg)|![](https://raw.githubusercontent.com/Lettly/Lettly/main/media/x-trasparent.svg)|
+|![](https://raw.githubusercontent.com/Lettly/Lettly/main/media/x-trasparent.svg)|![](https://raw.githubusercontent.com/Lettly/Lettly/main/media/x-trasparent.svg)|![](https://raw.githubusercontent.com/Lettly/Lettly/main/media/x-trasparent.svg)|
 <!-- END: tick-tack-toe -->
 
 <!--
