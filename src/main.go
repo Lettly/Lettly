@@ -3,6 +3,7 @@
 package main
 
 import (
+	"io/ioutil"
 	"os"
 	"strconv"
 	"strings"
@@ -16,8 +17,12 @@ func main() {
 		os.Stdout.WriteString("Error: Invalid move")
 		panic("Invalid move")
 	}
-	//Get environment variable readme
-	readme := os.Getenv("README")
+	//read README.md file
+	readmeFile, error := ioutil.ReadFile("README.md")
+	if error != nil {
+		panic("Error: Unable to open README.md file")
+	}
+	readme := string(readmeFile)
 
 	// Get text inside <!-- START: tick-tack-toe --> and <!-- END: tick-tack-toe --> comment
 	board := strings.Split(strings.Split(readme, "<!-- START: tick-tack-toe -->")[1], "<!-- END: tick-tack-toe -->")[0]
@@ -114,7 +119,7 @@ func main() {
 			output += "\n"
 		}
 	}
-	output += "<!-- END: tick-tack-toe -->\n"
+	output += "<!-- END: tick-tack-toe -->"
 	if winner == "X" || winner == "O" {
 		output += `<!-- START: tick-tack-toe-winner --><br>Last game was won by <b>` + winner + `</b><!-- START: tick-tack-toe-winner -->`
 		output += strings.Split(readme, "<!-- END: tick-tack-toe-winner -->")[1]
@@ -126,4 +131,9 @@ func main() {
 	}
 
 	os.Stdout.WriteString(output)
+	// write to file
+	err := ioutil.WriteFile("README.md", []byte(output), 0644)
+	if err != nil {
+		panic(err)
+	}
 }
