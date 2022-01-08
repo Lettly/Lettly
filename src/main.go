@@ -121,10 +121,10 @@ func main() {
 	}
 	output += "<!-- END: tick-tack-toe -->"
 	if winner == "X" || winner == "O" {
-		output += `<!-- START: tick-tack-toe-winner --><br>Last game was won by <b>` + winner + `</b><!-- START: tick-tack-toe-winner -->`
+		output += `<!-- START: tick-tack-toe-winner -->Last game was won by <b>` + winner + `</b><!-- START: tick-tack-toe-winner -->`
 		output += strings.Split(readme, "<!-- END: tick-tack-toe-winner -->")[1]
 	} else if winner == "draw" {
-		output += `<!-- START: tick-tack-toe-winner --><br>Last game was a draw<!-- START: tick-tack-toe-winner -->`
+		output += `<!-- START: tick-tack-toe-winner -->Last game was a draw<!-- START: tick-tack-toe-winner -->`
 		output += strings.Split(readme, "<!-- END: tick-tack-toe-winner -->")[1]
 	} else {
 		output += strings.Split(readme, "<!-- END: tick-tack-toe -->")[1]
