@@ -15,6 +15,10 @@ I’ve always had a passion for programming, in fact I’ve been programming sin
 <!-- END: tic-tac-toe --><!-- START: tic-tac-toe-winner -->Last game was won by <b>X</b><!-- END: tic-tac-toe-winner -->
 
 <i>Inspirated By [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess)</i>
+<hr>
+
+![](https://komarev.com/ghpvc/?username=Lettly)
+
 <!--
 **Lettly/Lettly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
