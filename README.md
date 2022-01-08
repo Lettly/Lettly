@@ -5,7 +5,7 @@
 |-|-|-|
 [![X](https://raw.githubusercontent.com/Lettly/Lettly/main/media/x.svg)](#)|[![X](https://raw.githubusercontent.com/Lettly/Lettly/main/media/x.svg)](#)|[![X clickable](https://raw.githubusercontent.com/Lettly/Lettly/main/media/x-trasparent.svg)](https://github.com/Lettly/Lettly/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=5)|
 [![X clickable](https://raw.githubusercontent.com/Lettly/Lettly/main/media/x-trasparent.svg)](https://github.com/Lettly/Lettly/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=6)|[![X clickable](https://raw.githubusercontent.com/Lettly/Lettly/main/media/x-trasparent.svg)](https://github.com/Lettly/Lettly/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=7)|[![X clickable](https://raw.githubusercontent.com/Lettly/Lettly/main/media/x-trasparent.svg)](https://github.com/Lettly/Lettly/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=8)|
-<!-- END: tick-tack-toe --><!-- START: tick-tack-toe-winner -->Last game was won by <b>O</b><!-- START: tick-tack-toe-winner -->
+<!-- END: tick-tack-toe --><!-- START: tick-tack-toe-winner -->Last game was won by <b>O</b><!-- END: tick-tack-toe-winner -->
 
 <i>Inspirated By [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess)</i>
 <!--
