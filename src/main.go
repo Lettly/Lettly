@@ -10,14 +10,14 @@ import (
 
 func main() {
 	//Get environment variable newmove
-	newmoveString := os.Getenv("newmove")
+	newmoveString := os.Getenv("ISSUE_TITLE")
 	newmove, error := strconv.Atoi(newmoveString)
 	if error != nil {
 		os.Stdout.WriteString("Error: Invalid move")
 		panic("Invalid move")
 	}
 	//Get environment variable readme
-	readme := os.Getenv("readme")
+	readme := os.Getenv("README")
 
 	// Get text inside <!-- START: tick-tack-toe --> and <!-- END: tick-tack-toe --> comment
 	board := strings.Split(strings.Split(readme, "<!-- START: tick-tack-toe -->")[1], "<!-- END: tick-tack-toe -->")[0]
