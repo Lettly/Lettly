@@ -1,5 +1,5 @@
 ### Hi there, i'm Marco 👋
-#### Let's play a game of Tick-Tack-Toe
+#### Let's play a game of Tic-Tac-Toe
 <!-- START: tick-tack-toe -->
 [![O clickable](https://raw.githubusercontent.com/Lettly/Lettly/main/media/o-trasparent.svg)](https://github.com/Lettly/Lettly/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=0)|[![O clickable](https://raw.githubusercontent.com/Lettly/Lettly/main/media/o-trasparent.svg)](https://github.com/Lettly/Lettly/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=1)|[![O clickable](https://raw.githubusercontent.com/Lettly/Lettly/main/media/o-trasparent.svg)](https://github.com/Lettly/Lettly/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=2)|
 |-|-|-|
