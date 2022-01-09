@@ -17,7 +17,8 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
       
     env:
-          ISSUE_TITLE: ${{ github.event.issue.title }}
+      ISSUE_TITLE: ${{ github.event.issue.title }}
+      ISSUE_CREATOR: ${{ github.event.issue.user.login }}
     steps:
       - name: Close Issue
         uses: peter-evans/close-issue@v1

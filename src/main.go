@@ -12,6 +12,7 @@ import (
 func main() {
 	//Get environment variable newmove
 	newmoveString := os.Getenv("ISSUE_TITLE")
+	winnerName := os.Getenv("ISSUE_CREATOR")
 	newmove, error := strconv.Atoi(newmoveString)
 	if error != nil {
 		os.Stdout.WriteString("Error: Invalid move")
@@ -121,7 +122,7 @@ func main() {
 	}
 	output += "<!-- END: tic-tac-toe -->"
 	if winner == "X" || winner == "O" {
-		output += `<!-- START: tic-tac-toe-winner -->Last game was won by <b>` + winner + `</b><!-- END: tic-tac-toe-winner -->`
+		output += `<!-- START: tic-tac-toe-winner -->Last game was won by <b>` + winnerName + ` (` + winner + `)</b><!-- END: tic-tac-toe-winner -->`
 		output += strings.Split(readme, "<!-- END: tic-tac-toe-winner -->")[1]
 	} else if winner == "draw" {
 		output += `<!-- START: tic-tac-toe-winner -->Last game was a draw<!-- END: tic-tac-toe-winner -->`
