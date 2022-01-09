@@ -6,7 +6,7 @@ I’ve always had a passion for programming, in fact I’ve been programming sin
 - 📒 I’ve recreated the my high school electronic register because the I didn't like the original one.
 <br><br><i>I know my fun fact aren't so funny 🤷</i>
 ## 🎵 I like listening to music, A LOT
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1180581270&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1180581270&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=1180581270&redirect=true)
 ## 🎮 Let's play a game of Tic-Tac-Toe
 <!-- START: tic-tac-toe -->
 [![O](https://raw.githubusercontent.com/Lettly/Lettly/main/media/o.svg)](#)|[![X clickable](https://raw.githubusercontent.com/Lettly/Lettly/main/media/x-trasparent.svg)](https://github.com/Lettly/Lettly/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=1)|[![O](https://raw.githubusercontent.com/Lettly/Lettly/main/media/o.svg)](#)|
