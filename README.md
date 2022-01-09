@@ -2,8 +2,8 @@
 I’m twenty years old and currently studying software engineer at Roma Tre.<br>
 I’ve always had a passion for programming, in fact I’ve been programming since I was fourteen as a hobby, I started by learning Linux, and during my high school career I’ve coded and developed various sites and programs.<br>
 ### ⚡ Fun fact:<br>
-- 📻 For my final exam I turned in a web app that was an external application for Spotify, that allowed the user to choose the songs to play in a restaurant.
-- 📒 I’ve recreated the my high school electronic register because the I didn't like the original one.
+- 📻 For my final exam I turned in a web app that was an external application for Spotify, that allowed the user to choose the songs to play in a restaurant ([Lettly/YourMusic](https://github.com/Lettly/YourMusic)).
+- 📒 I’ve recreated the my high school electronic register because the I didn't like the original one ([REDignus/web-server](https://github.com/REDignus/web-server)).
 <br><br><i>I know my fun fact aren't so funny 🤷</i>
 ## 🎵 I like listening to music, A LOT
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1180581270&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=1180581270&redirect=true)
