@@ -1,8 +1,9 @@
 ## Hi there, I'm Marco 👋
 I’m twenty years old and currently studying software engineer at Roma Tre.<br>
-I’ve always had a passion for programming, in fact I’ve been programming since I was fourteen as a hobby, I started by learning Linux, and during my high school career I’ve coded and developed various sites and programs, for instance I’ve recreated the visual interface of my high school electronic register for students.<br>
+I’ve always had a passion for programming, in fact I’ve been programming since I was fourteen as a hobby, I started by learning Linux, and during my high school career I’ve coded and developed various sites and programs.<br>
 ### ⚡ Fun fact:<br>
 - For my final exam I turned in a web app that was an external application for Spotify, that allowed the user to choose the songs to play in a restaurant.
+- I’ve recreated the visual interface of my high school electronic register because the I didn't like the original one.
 <br><br><i>I know my fun fact aren't so funny 🤷</i>
 ## 🎵 I like listening to music, A LOT
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1180581270&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
