@@ -54,7 +54,7 @@ func main() {
 	}
 
 	// Check if newmove is valid
-	if newmove >= 0 && newmove <= 9 {
+	if newmove >= 0 && newmove < 9 {
 		if strings.Contains(boardArray[newmove], "[O]") || strings.Contains(boardArray[newmove], "[X]") {
 			os.Stdout.WriteString("Error: Invalid move")
 			panic("Invalid move")
