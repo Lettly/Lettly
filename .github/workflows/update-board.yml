@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
+name: Update Board
 
 # Controls when the workflow will run
 on:
@@ -23,7 +23,7 @@ jobs:
         uses: peter-evans/close-issue@v1
         with:
           issue-number: ${{ github.event.issue.number }}
-          comment: Auto-closing issue. check here for the result ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          comment: Auto-closing issue. Check here for the result ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
           
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
