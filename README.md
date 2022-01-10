@@ -18,6 +18,10 @@ I’ve always had a passion for programming, in fact I’ve been programming sin
 <i>Inspirated By [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess)</i>
 <hr>
 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-giuseppini-2670bb198/)
+[![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Lettly_limbot)
+<hr>
+
 [![](https://komarev.com/ghpvc/?username=Lettly)](#)
 
 <!--
