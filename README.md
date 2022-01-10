@@ -1,5 +1,5 @@
 ## Hi there, I'm Marco 👋
-I’m twenty years old and currently studying software engineer at Roma Tre.<br>
+I’m twenty years old and currently studying software engineering at Roma Tre.<br>
 I’ve always had a passion for programming, in fact I’ve been programming since I was fourteen as a hobby, I started by learning Linux, and during my high school career I’ve coded and developed various sites and programs.<br>
 ### ⚡ Fun fact:<br>
 - 📻 For my final exam I turned in a web app that was an external application for Spotify, that allowed the user to choose the songs to play in a restaurant ([Lettly/YourMusic](https://github.com/Lettly/YourMusic)).
