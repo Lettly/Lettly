@@ -7,6 +7,7 @@ I’ve always had a passion for programming, in fact I’ve been programming sin
 <br><br><i>I know my fun fact aren't so funny 🤷</i>
 ## 🎵 I like listening to music, A LOT
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1180581270&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=1180581270&redirect=true)
+
 ## 🎮 Let's play a game of Tic-Tac-Toe
 <!-- START: tic-tac-toe -->
 [![O clickable](https://raw.githubusercontent.com/Lettly/Lettly/main/media/o-trasparent.svg)](https://github.com/Lettly/Lettly/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=0)|[![O clickable](https://raw.githubusercontent.com/Lettly/Lettly/main/media/o-trasparent.svg)](https://github.com/Lettly/Lettly/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=1)|[![O clickable](https://raw.githubusercontent.com/Lettly/Lettly/main/media/o-trasparent.svg)](https://github.com/Lettly/Lettly/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=2)|
@@ -21,6 +22,7 @@ I’ve always had a passion for programming, in fact I’ve been programming sin
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-giuseppini-2670bb198/)
 [![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Lettly_limbot)
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@giuseppini.marco)
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@giuseppini.marco/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@giuseppini.marco/0" alt="Recent Article 0"> 
 <hr>
 
 [![](https://komarev.com/ghpvc/?username=Lettly)](#)
