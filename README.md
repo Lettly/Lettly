@@ -6,7 +6,7 @@ I’ve always had a passion for programming, in fact I’ve been programming sin
 - 📒 I’ve recreated my high school electronic register because I didn't like the original one ([REDignus/web-server](https://github.com/REDignus/web-server)).
 <br><br><i>I know my fun fact aren't so funny 🤷</i>
 ## 🎵 I like listening to music, A LOT
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1180581270&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=53b14f)](https://spotify-github-profile.vercel.app/api/view?uid=1180581270&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1180581270&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=53b14f)](https://spotify-github-profile.kittinanx.com/api/view?uid=1180581270&redirect=true)
 
 ## 🎮 Let's play a game of Tic-Tac-Toe
 <!-- START: tic-tac-toe -->
